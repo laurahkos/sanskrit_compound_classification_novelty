@@ -204,5 +204,5 @@ if __name__ == "__main__":
     p.add_argument("--karaka-root", default="karaka")
     p.add_argument("--cache-root", default="cache")
     p.add_argument("--sacti-test", default="data/sacti_dedup_context/test.jsonl")
-    p.add_argument("--out", default="posthoc4/summary")
+    p.add_argument("--out", default="posthoc/summary")
     main(p.parse_args())
