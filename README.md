@@ -1,4 +1,4 @@
-## compound_classification_novelty
+## sanskrit_compound_classification_novelty
 
 This repository contains code for reproducing training and evaluation for classifying two-member compounds additionally according to the lexical novelty categories scheme. It presupposes the use of two datasets with different labelling schemes, namely: 
 - **VCD** (Vedic Compound Dataset, Sellmer & Hellwig 2024), labelled in accordance with the Bisetto & Scalise (2011) compound typology.
